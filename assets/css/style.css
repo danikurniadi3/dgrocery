@@ -1,0 +1,27 @@
+
+.nav-item a{
+  text-decoration: none;
+  font-weight: 600;
+  color: black;
+  text-transform: uppercase;
+  margin-right: 15px;
+  transition: all 0.4s;
+}
+.nav-item a:hover{
+  color: rgb(20, 219, 20);
+}
+.jumbotron{
+  margin: 0 100px 0 100px;
+  padding: 100px;
+}
+.jumbotron h1{
+  font-weight: 600;
+  color: green;
+}
+.jumbotron p{
+  font-weight: 300;
+  color: green;
+}
+.contact{
+  margin: 50px;
+}
